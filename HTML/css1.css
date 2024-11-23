@@ -1,0 +1,15 @@
+*
+ {
+  text-align:center;
+  color:black;
+ }
+p.B
+ {
+  text-align:right;
+  color:blue;
+ }
+h1
+ {
+  text-transform:uppercase;
+  color:maroon;
+}
